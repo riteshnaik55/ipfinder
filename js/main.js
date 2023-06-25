@@ -29,7 +29,7 @@ async function getResults(url){
 
 function showResults(data){
     window.scrollTo(0, 500);
-    const ip=data.city;
+    const ip=data.query;
     const isp=data.isp;
     const org=data.org;
     const lat=data.lat;
