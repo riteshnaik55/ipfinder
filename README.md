@@ -55,10 +55,10 @@ You can find the demo website here - [Click here](http://ipfinder.html-5.me/)
 
 ## Screenshots
 
-![App Screenshot](https://github.com/riteshnaik55/ipfinder/tree/main/build/screenshots/1.jpeg)
-![App Screenshot](https://github.com/riteshnaik55/ipfinder/tree/main/build/screenshots/2.JPG)
-![App Screenshot](https://github.com/riteshnaik55/ipfinder/tree/main/build/screenshots/3.jpeg)
-![App Screenshot](https://github.com/riteshnaik55/ipfinder/tree/main/build/screenshots/4.jpeg)
+![App Screenshot](https://github.com/riteshnaik55/ipfinder/blob/main/build/screenshots/1.JPG)
+![App Screenshot](https://github.com/riteshnaik55/ipfinder/blob/main/build/screenshots/2.JPG)
+![App Screenshot](https://github.com/riteshnaik55/ipfinder/blob/main/build/screenshots/3.JPG)
+![App Screenshot](https://github.com/riteshnaik55/ipfinder/blob/main/build/screenshots/4.JPG)
 
 
 ## Contact
