@@ -51,7 +51,7 @@ You can find the demo website here - [Click here](http://ipfinder.html-5.me/)
 
 
 ## Contact
-Thank you for checking out IP Finder! We hope you find it useful and valuable.
+Thank you for checking out IP Finder! I hope you find it useful and valuable.
 
 For any inquiries or further information, feel free to reach out to me:
 
